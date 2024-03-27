@@ -1,2 +1,2 @@
 # wiki
-The official [Nexus TCG Wiki]([url](https://github.com/NexusTCG/wiki/wiki)) 
+Go to the official Nexus TCG wiki: https://github.com/NexusTCG/wiki/wiki
